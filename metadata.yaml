@@ -1,4 +1,8 @@
 _repo: Greater-Greece-and-Greater-Britain-and-George-Washington-the-Great-Expander-of-England-Two-Le__47908
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47908-h/images/cover.jpg
 creator:
   author:
     agent_name: Freeman, Edward A. (Edward Augustus)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/526
     wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47908#Greater-Greece-and-Greater-Britain-and-George-Washington-the-Great-Expander-of-England-Two-Le_
 gutenberg_issued: '2015-01-07'
 gutenberg_type: Text
 identifiers:
